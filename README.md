@@ -2,9 +2,9 @@
 
 Nome da temática do aplicativo: Lava-Rápido
 
-Nome completo do estudante: <PREENCHER>
+Nome completo do estudante: Roberta Carreira Barcarollo
 
-Link da API publicada: <PREENCHER - ex.: https://lava-rapido-api.onrender.com>
+Link da API publicada: https://lava-rapido-api.onrender.com/
 
 Descrição resumida da aplicação: Aplicativo Flutter para controle de lavagens de um lava-rápido (número da vaga e valor do serviço). Os dados ficam no SQLite do aparelho e são enviados para uma API própria (Node.js + Express + PostgreSQL). Funciona offline-first: se a API estiver indisponível, o cadastro é salvo localmente como pendente e pode ser sincronizado manualmente depois.
 
